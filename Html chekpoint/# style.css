@@ -1,0 +1,33 @@
+body{
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+p1{
+    text-align: center;
+    font-size: larger;
+}
+h2{
+    text-align: center;
+    font-size: larger;
+    border: 10px;color: beige;
+}
+
+h4{
+
+    font-size: 20px;
+    color: rgb(68, 0, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+p{
+    background-color: rgb(24, 56, 24);
+}
+para1{
+    background-color: beige;
+}
+nav{display: inline;
+}
+p2{
+    background-color: antiquewhite;
+}
+
